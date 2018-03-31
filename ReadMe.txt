@@ -1,0 +1,1 @@
++++++ Nadir Avdagic+++++ 17676+++++ 2017/2018 +++++RMA +++++Spirala1 +++++Uradjeno: Zadaci: 1-3 Sve funkcionalnosti implementirane, 4-zad sve funkcionalnosti implementirane osim spasavanje boje +++++ Nije uradjeno:4-zad boja se ne spasava(ne pamti se nakon povratka) 
