@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Najbolja aplikacija ikad</string>
+    <string name="dKategorije">Kategorije</string>
+    <string name="dAutori">Autori</string>
+    <string name="dDodajKategoriju">Dodaj kategoriju</string>
+    <string name="dPretraga">Pretraga</string>
+    <string name="dDodajKnjigu">Dodaj knjigu</string>
+    <string name="dPovratak">Povratak</string>
+    <string name="dUpisiKnjigu">Upisi knjigu</string>
+    <string name="dNadjiSliku">Nadji sliku</string>
+    <string name="dPonisti">Ponisti</string>
+</resources>
